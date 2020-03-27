@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="NopCommerce.com" verbose="1" >
+    <test name="NopCommerce" >
+        <classes>
+            <class name = "com.nopcommerce.NopCommerceTest"/>
+        </classes>
+    </test>
+</suite>
